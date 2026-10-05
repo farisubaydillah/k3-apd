@@ -1,0 +1,6 @@
+{
+  "name": "Sistem Checklist K3 Zona Merah GIS Waru",
+  "description": "Sistem digital verifikasi checklist keselamatan kerja dan deteksi APD dengan Computer Vision sebelum memasuki Zona Merah Gardu Induk GIS Waru.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
